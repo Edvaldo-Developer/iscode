@@ -549,9 +549,9 @@ main .site-header .logo a {
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
-	width: 116px;
-	height: 80px;
-	background: url("../images/logo/logo@2x.png") no-repeat;
+	width: 180px;
+	height: 140px;
+	background: url("../images/logo/logo.png") no-repeat;
 	background-size: contain;
 }
 
